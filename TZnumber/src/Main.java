@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        int x = 0;
         //get number from user
         int id = scan.nextInt();
         int k = 1;//to do the modulo
